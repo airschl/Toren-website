@@ -1,0 +1,43 @@
+body {
+	padding: 0;
+}
+
+.navbar {
+	background: #22D7AF;
+	margin-bottom:  0;
+}
+
+.navbar .navbar-brand, 
+.navbar li a  {
+	color: #FFF;
+	text-decoration: underline;
+	font-family: 'HelveticaNeue-Bold'; 	
+	padding-top: 28px;
+	margin: 0;
+}
+
+.navbar .navbar-brand {
+	font-size: 34px;
+}
+
+.navbar li a {
+	font-size: 25px;
+}
+
+.jumbotron {
+	background: #22D7AF;
+}
+
+.jumbotron img {
+	display: block;
+	margin: 0 auto;
+}
+
+img {
+	max-width: 100%;
+}
+
+.col-md-4 img {
+	padding-bottom: 15px;
+
+}
